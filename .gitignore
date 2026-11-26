@@ -1,0 +1,35 @@
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Videos
+uploads/
+videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Generated data
+data/traffic_history.csv
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
